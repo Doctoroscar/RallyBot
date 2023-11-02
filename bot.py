@@ -13,7 +13,7 @@ from addons.randomspawn import RandomSpawn
 
 BACKGROUND_TIMER_SECONDS = 30
 ENABLED_ADDONS = [
-        Riddles,
+        TurkeyTrivia,
         Trivia,
         RandomSpawn
         ]
