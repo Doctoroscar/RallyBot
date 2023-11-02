@@ -81,6 +81,27 @@ def betty_loot(leaderboard):
         coins -= 1
     return leaderboard
 
+def george_w_butcher(leaderboard):
+    sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
+    coins = 5
+    for user in sorted_leaderboard:
+        if coins < 1:
+            break
+        leaderboard[user] += coins
+        coins -= 1
+    return leaderboard
+
+
+def broccoli_obama(leaderboard):
+    sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1])}
+    coins = 5
+    for user in sorted_leaderboard:
+        if coins < 1:
+            break
+        leaderboard[user] += coins
+        coins -= 1
+    return leaderboard
+
 def bob_the_enlightened(leaderboard):
     for user in leaderboard:
         heads_tails = random.randint(0, 1)
@@ -158,5 +179,19 @@ ENCOUNTERS = [
         "function": karl_sharx,
         "description": "...and brings about a wave of communism.\nSome wealth is redistributed...",
         "footer": "You have nothing to lose but your chains!"
+    },
+    {
+        "name": "Broccoli Obama",
+        "url": "https://i.imgur.com/yOCf2QX.jpg",
+        "function": broccoli_obama,
+        "description": "...and brings a green deal.\nThe bottom of the ladder receives benefits...",
+        "footer": "We don't need no meat!"
+    },
+    {
+        "name": "George W Butcher",
+        "url": "https://i.imgur.com/0a2oif8.jpg",
+        "function": george_w_butcher,
+        "description": "...and brings a red deal.\nThe top of the ladder receives benefits...",
+        "footer": "You need protein!"
     },
 ]
