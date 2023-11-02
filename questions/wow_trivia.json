@@ -383,6 +383,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "fandral staghelm"
+            "archdruid fandral staghelm"
+            "archdruid staghelm"
         ]
     },
     {
@@ -397,7 +399,7 @@
         ]
     },
     {
-        "question": "Who did Queen Azshara make a pact with to save her people during the War of the Ancients?",
+        "question": "Who did Queen Azshara make a pact with during the Sundering?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1952,12 +1954,12 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "thane korth'azz",
-            "lady blauemox",
+            "lady blaumeux",
             "baron rivendare",
             "sir zeliek",
             "korthazz",
             "thane korthazz",
-            "blauemox",
+            "blaumeux",
             "rivendare",
             "zeliek"
         ]
