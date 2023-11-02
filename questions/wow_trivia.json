@@ -1,5 +1,43 @@
 [
     {
+        "question": "How many years was Illidan imprisoned?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "10000",
+            "10,000",
+            "ten thousand"
+        ]
+    },
+    {
+        "question": "What was Maiev before becoming a Warden?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "priest",
+            "priestess",
+            "priest of elune",
+            "priestess of elune",
+        ]
+    },
+    {
+        "question": "Who was Medivh's mother?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "aegwynn"
+        ]
+    },
+    {
         "question": "What is the highest peak in Azeroth?",
         "sarcastic-answers": [
             "penis",
@@ -9,6 +47,51 @@
         "answers": [
             "mount neverest",
             "neverest"
+        ]
+    },
+     {
+        "question": "What did the Druids of the Pack become?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+          "worgen",
+          "druids",
+          "druids of the scythe"
+        ]
+    },
+    {
+        "question": "Who planted Teldrassil?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "fandral staghelm",
+            "archdruid staghelm",
+            "archdruid fandral staghelm",
+            "staghelm"
+        ]
+    },
+    {
+        "question": "Which Stormrage brother is older, Illidan or Malfurion?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "theyre twins",
+            "they're twins",
+            "twins",
+            "noone",
+            "no one",
+            "neither",
+            "none",
+            "trick question"
         ]
     },
     {
