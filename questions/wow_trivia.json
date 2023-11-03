@@ -1,4 +1,52 @@
 [
+     {
+        "question": "What were some of Neltharion's other names?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "deathwing",
+            "xaxas",
+            "earth warder",
+            "earth-warder",
+            "the earth warder",
+            "the earth-warder",
+            "shuul'wah",
+            "shuulwah",
+            "shuul wah",
+            "phquathi",
+            "lord prestor",
+            "lord daval prestor",
+            "daval prestor",
+            "blood's shadow",
+            "bloods shadow",
+            "the betrayer",
+            "betrayer",
+            "aspect of death",
+            "blackwing greatfather",
+            "black scourge",
+            "the black scourge",
+            "cataclysm",
+            "the cataclysm",
+            "dark one",
+            "the dark one",
+            "death incarnate",
+            "death's incarnate",
+            "deaths incarnate",
+            "the destroyer",
+            "destroyer",
+            "worldbreaker",
+            "the worldbreaker",
+            "unmaker of worlds",
+            "great one",
+            "the great one",
+            "the black",
+            "the warder of the land",
+            "warder of the land"
+            
+        ]
     {
         "question": "How many years was Illidan imprisoned?",
         "sarcastic-answers": [
@@ -130,7 +178,7 @@
         ]
     },
     {
-        "question": "Which Old God was killed by Titans and buried in a prison deep beneath the land that would become the desert of Silithus?",
+        "question": "Which Old God was killed by Titans and buried in a prison deep beneath the land that would become the desert Silithus?",
         "sarcastic-answers": [
             "penis",
             "vagina"
