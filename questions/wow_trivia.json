@@ -1343,7 +1343,7 @@
         ]
     },
     {
-        "question": "King Krush, King Mosh and King Dred are all what type of creature?",
+        "question": "King Krush, King Mosh, and King Dred are all what type of creature?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1620,7 +1620,7 @@
         ]
     },
     {
-        "question": "Bloodfeather, Windfury and Witchwing are all types of which race?",
+        "question": "Bloodfeather, Windfury, and Witchwing are all types of which race?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1650,7 +1650,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "jiang"
+            "jiang",
+            "ji"
         ]
     },
     {
@@ -1674,11 +1675,12 @@
         "answers": [
             "nordrassil",
             "the world tree",
-            "world tree"
+            "world tree",
+            "immortality"
         ]
     },
     {
-        "question": "What area was reshaped by Goblins to resemble the symbol of the horde?",
+        "question": "What area was terraformed by Goblins to resemble the symbol of the horde?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1996,6 +1998,114 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "karazhan"
+        ]
+    },
+    {
+        "question": "What is the rare celestial event when Azeroth's two moons are in conjunction?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "embrace",
+            "the embrace"
+        ]
+    },
+    {
+        "question": "What titan empowered Alexstrasza?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "eonar"
+        ]
+    },
+    {
+        "question": "What titan empowered Malygos?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "norgannon",
+        ]
+    },
+    {
+        "question": "What titan empowered Neltharion?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "khaz'goroth",
+            "khazgoroth",
+            "khaz goroth"
+        ]
+    },
+    {
+        "question": "What titan empowered Ysera?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Eonar"
+        ]
+    },
+    {
+        "question": "Arthas' Death Knights trained in a floating citadel that was overtaken when many rebelled, what was the fortress called?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "archerus",
+            "the ebon hold",
+            "archerus the ebon hold"
+            "archerus: the ebon hold"
+        ]
+    },
+     {
+        "question": "Before the Horde's formation, a highly contagious sickness spread among the orcs. What was it called?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "red pox"
+        ]
+    },
+     {
+        "question": "Formerly a healthy paladin, this Draenei fell ill after fighting the Burning Legion, becoming one of the Broken. He is now a powerful Shaman, who is he?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "nobundo",
+            "farseer nobundo"
+        ]
+    },
+     {
+        "question": "The brown-skinned orcs that escaped the Burning Legion's corruption?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "mag'har",
+            "maghar",
+            "mag har"
         ]
     }
 ]
