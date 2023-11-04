@@ -124,6 +124,29 @@
             "staghelm"
         ]
     },
+     {
+        "question": "What is the Draenic term for their paladins?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "vindicator",
+             "vindicators"
+        ]
+          {
+        "question": "What is the Draenic term for their priests?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "anchorite",
+             "anchorites"
+        ]
+    },
     {
         "question": "Which Stormrage brother is older, Illidan or Malfurion?",
         "sarcastic-answers": [
@@ -1249,7 +1272,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "old hillsbrad foothills",
-            "hillsbrad foothills",
+            "tarren mill",
+             "hillsbrad foothills",
             "hillsbrad"
         ]
     },
@@ -1334,7 +1358,7 @@
         ]
     },
     {
-        "question": "What is the draenei racial heal called in World of Warcraft?",
+        "question": "What is the Draenei racial healing ability called?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1345,7 +1369,7 @@
         ]
     },
     {
-        "question": "Where is the Cleft of Shadow located in World of Warcraft?",
+        "question": "Where is the Cleft of Shadow located?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1401,7 +1425,7 @@
         ]
     },
     {
-        "question": "Before succumbing to magical addition, the Wretched were once members of which race?",
+        "question": "Before succumbing to magical addiction, the Wretched were once members of which race?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1409,7 +1433,13 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "blood elves",
-            "blood elf"
+            "blood elf",
+             "high elf",
+             "high elves",
+             "sindorei",
+             "sin'dorei",
+             "quel'dorei",
+             "queldorei"
         ]
     },
     {
@@ -1447,7 +1477,7 @@
         ]
     },
     {
-        "question": "What is the name of the mate of Har'koa?",
+        "question": "What is the name of the loa Har'koa's mate, found wandering in Sholazar Basin?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1548,11 +1578,13 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "argus wake"
+            "argus wake",
+             "syndicate",
+             "the syndicate"
         ]
     },
     {
-        "question": "Who was the brother of Varok Saurfang and the only Orc to fight in the War of the Ancients?",
+        "question": "Who was the brother of Varok Saurfang, and the only known mortal to inflict a wound on the Sargeras?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1570,7 +1602,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "benedictus"
+            "benedictus",
+             "archbishop benedictus"
         ]
     },
     {
@@ -1595,11 +1628,12 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "aedelas blackmoore"
+            "aedelas blackmoore",
+             "blackmoore"
         ]
     },
     {
-        "question": "Razormane and Bristleback are two feuding tribes of which race?",
+        "question": "Razormane and Bristleback are two tribes of which race?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1640,7 +1674,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "majordomo staghelm",
-            "staghelm"
+            "staghelm",
+             "fandral staghelm"
         ]
     },
     {
@@ -1779,11 +1814,12 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "taretha foxton"
+            "taretha foxton",
+             "taretha"
         ]
     },
     {
-        "question": "Which Pandaria creatures are the embodiments of negative emotions?",
+        "question": "Which spirits are the embodiments of negative emotions in Pandaria?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1791,8 +1827,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "sha",
-            "sha beasts",
-            "shas"
+             "shas",
+             "ikk"
         ]
     },
     {
@@ -1816,7 +1852,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "xavius"
+            "xavius",
+             "lord xavius"
         ]
     },
     {
@@ -1896,7 +1933,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "piccolo of the flaming fire",
-            "piccolo of flaming fire"
+            "piccolo of flaming fire",
+             "piccolo"
         ]
     },
     {
@@ -1919,6 +1957,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "king terenas menethil ii",
+             "king terenas",
             "terenas",
             "terenas menethil",
             "terenas menethil ii",
@@ -1937,7 +1976,7 @@
         ]
     },
     {
-        "question": "How many major content patches has The Burning Crusade received since its birth?",
+        "question": "How many major content patches did the Burning Crusade expansion receive?",
         "sarcastic-answers": [
             "penis",
             "vagina"
@@ -1968,8 +2007,9 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "guldan",
-            "gul'dan"
+            "doomhammer",
+            "orgrim doomhammer",
+             "orgrim"
         ]
     },
     {
@@ -1980,7 +2020,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "false"
+            "false; it was its own city-state straddling Lordaeron and Hillsbrad Foothills"
         ]
     },
     {
@@ -2010,7 +2050,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "true"
+            "true; they were originally the titan-forged Earthen."
         ]
     },
     {
@@ -2103,6 +2143,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "archerus",
+             "ebon hold"
             "the ebon hold",
             "archerus the ebon hold",
             "archerus: the ebon hold"
