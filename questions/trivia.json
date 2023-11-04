@@ -2,7 +2,7 @@
     {
         "question": "This language has changed so little that present day speakers can read 12th century sagas without difficulty.",
         "answers": [
-            "Icelandic"
+            "icelandic"
         ]
     },
 	{
@@ -330,12 +330,6 @@
         "question": "which musician has collaborated with american producer porter robinson and released the 2016 song \"shelter\"?",
         "answers": [
             "madeon"
-        ]
-    },
-    {
-        "question": "which of the following languages does not use gender as a part of its grammar?",
-        "answers": [
-            "turkish"
         ]
     },
     {
@@ -4432,12 +4426,6 @@
         "question": "which company developed the hololens?",
         "answers": [
             "microsoft"
-        ]
-    },
-    {
-        "question": "which of the following cellular device companies is not headquartered in asia?",
-        "answers": [
-            "nokia"
         ]
     },
     {
