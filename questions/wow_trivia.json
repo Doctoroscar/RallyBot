@@ -47,6 +47,7 @@
             "warder of the land"
             
         ]
+    },
     {
         "question": "How many years was Illidan imprisoned?",
         "sarcastic-answers": [
@@ -135,6 +136,7 @@
             "vindicator",
              "vindicators"
         ]
+    },
           {
         "question": "What is the Draenic term for their priests?",
         "sarcastic-answers": [
@@ -2143,7 +2145,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "archerus",
-             "ebon hold"
+             "ebon hold",
             "the ebon hold",
             "archerus the ebon hold",
             "archerus: the ebon hold"
