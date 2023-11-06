@@ -2,7 +2,7 @@ import json
 import discord
 from addon import Addon
 
-SPAWN_INTERVAL = 1950
+SPAWN_INTERVAL = 1875
 TIMEOUT_INTERVAL = 300
 MONITOR_STATE = False
 

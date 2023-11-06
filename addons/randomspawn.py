@@ -3,7 +3,7 @@ import time
 import discord
 from addon import Addon
 
-SPAWN_INTERVAL = 3833
+SPAWN_INTERVAL = 2233
 TIMEOUT_INTERVAL = 10
 MONITOR_STATE = False
 
@@ -135,6 +135,29 @@ def karl_sharx(leaderboard):
     return leaderboard
 
 
+def james_devourer_of_worlds(leaderboard):
+    top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
+    sorted_users = [k for k in top_sorted_leaderboard]
+    for user in sorted_users[3:-3]:
+        leaderboard[user] += 5
+    return leaderboard
+
+
+def broseph_stalin(leaderboard):
+    top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
+    sorted_users = [k for k in top_sorted_leaderboard]
+    points_diff = int(leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]]/2)
+    leaderboard[sorted_users[0]] -= points_diff
+    while points_diff > 0:
+        for user in sorted_users[3:]:
+            leaderboard[user] += 1
+            points_diff -= 1
+    new_top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
+    return leaderboard
+
+
+
+
 
 
 ENCOUNTERS = [
@@ -186,6 +209,20 @@ ENCOUNTERS = [
         "function": broccoli_obama,
         "description": "...and brings a green deal.\nThe bottom of the ladder receives benefits...",
         "footer": "We don't need no meat!"
+    },
+    {
+        "name": "James, Devourer of Worlds",
+        "url": "https://i.imgur.com/BXu3pTd.png",
+        "function": james_devourer_of_worlds,
+        "description": "...and brings 5 points to those in the middle",
+        "footer": "everything, everything will be just fine"
+    },
+    {
+        "name": "Broseph Stall-in",
+        "url": "https://i.imgur.com/OT37AKV.jpg",
+        "function": broseph_stalin,
+        "description": "...and cuts the capitalist's lead"
+        "footer": "History shows that there are no invincible armies"
     },
     {
         "name": "George W Butcher",

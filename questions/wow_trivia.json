@@ -1,5 +1,5 @@
 [
-     {
+    {
         "question": "What were some of Neltharion's other names?",
         "sarcastic-answers": [
             "penis",
@@ -45,7 +45,6 @@
             "the black",
             "the warder of the land",
             "warder of the land"
-            
         ]
     },
     {
@@ -98,7 +97,7 @@
             "neverest"
         ]
     },
-     {
+    {
         "question": "What did the Druids of the Pack become?",
         "sarcastic-answers": [
             "penis",
@@ -106,9 +105,9 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-          "worgen",
-          "druids",
-          "druids of the scythe"
+            "worgen",
+            "druids",
+            "druids of the scythe"
         ]
     },
     {
@@ -125,7 +124,7 @@
             "staghelm"
         ]
     },
-     {
+    {
         "question": "What is the Draenic term for their paladins?",
         "sarcastic-answers": [
             "penis",
@@ -134,10 +133,10 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "vindicator",
-             "vindicators"
+            "vindicators"
         ]
     },
-          {
+    {
         "question": "What is the Draenic term for their priests?",
         "sarcastic-answers": [
             "penis",
@@ -146,7 +145,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "anchorite",
-             "anchorites"
+            "anchorites"
         ]
     },
     {
@@ -1275,7 +1274,7 @@
         "answers": [
             "old hillsbrad foothills",
             "tarren mill",
-             "hillsbrad foothills",
+            "hillsbrad foothills",
             "hillsbrad"
         ]
     },
@@ -1436,12 +1435,12 @@
         "answers": [
             "blood elves",
             "blood elf",
-             "high elf",
-             "high elves",
-             "sindorei",
-             "sin'dorei",
-             "quel'dorei",
-             "queldorei"
+            "high elf",
+            "high elves",
+            "sindorei",
+            "sin'dorei",
+            "quel'dorei",
+            "queldorei"
         ]
     },
     {
@@ -1581,8 +1580,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "argus wake",
-             "syndicate",
-             "the syndicate"
+            "syndicate",
+            "the syndicate"
         ]
     },
     {
@@ -1605,7 +1604,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "benedictus",
-             "archbishop benedictus"
+            "archbishop benedictus"
         ]
     },
     {
@@ -1631,7 +1630,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "aedelas blackmoore",
-             "blackmoore"
+            "blackmoore"
         ]
     },
     {
@@ -1677,7 +1676,7 @@
         "answers": [
             "majordomo staghelm",
             "staghelm",
-             "fandral staghelm"
+            "fandral staghelm"
         ]
     },
     {
@@ -1817,7 +1816,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "taretha foxton",
-             "taretha"
+            "taretha"
         ]
     },
     {
@@ -1829,8 +1828,8 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "sha",
-             "shas",
-             "ikk"
+            "shas",
+            "ikk"
         ]
     },
     {
@@ -1855,7 +1854,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "xavius",
-             "lord xavius"
+            "lord xavius"
         ]
     },
     {
@@ -1936,7 +1935,7 @@
         "answers": [
             "piccolo of the flaming fire",
             "piccolo of flaming fire",
-             "piccolo"
+            "piccolo"
         ]
     },
     {
@@ -1959,7 +1958,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "king terenas menethil ii",
-             "king terenas",
+            "king terenas",
             "terenas",
             "terenas menethil",
             "terenas menethil ii",
@@ -2011,7 +2010,7 @@
         "answers": [
             "doomhammer",
             "orgrim doomhammer",
-             "orgrim"
+            "orgrim"
         ]
     },
     {
@@ -2145,13 +2144,13 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "archerus",
-             "ebon hold",
+            "ebon hold",
             "the ebon hold",
             "archerus the ebon hold",
             "archerus: the ebon hold"
         ]
     },
-     {
+    {
         "question": "Before the Horde's formation, a highly contagious sickness spread among the orcs. What was it called?",
         "sarcastic-answers": [
             "penis",
@@ -2162,7 +2161,7 @@
             "red pox"
         ]
     },
-     {
+    {
         "question": "Formerly a healthy paladin, this Draenei fell ill after fighting the Burning Legion, becoming one of the Broken. He is now a powerful Shaman, who is he?",
         "sarcastic-answers": [
             "penis",
@@ -2174,7 +2173,7 @@
             "farseer nobundo"
         ]
     },
-     {
+    {
         "question": "The brown-skinned orcs that escaped the Burning Legion's corruption?",
         "sarcastic-answers": [
             "penis",
@@ -2185,6 +2184,804 @@
             "mag'har",
             "maghar",
             "mag har"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Blood Death Knights?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Maw of the Damned"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Frost Death Knights?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Blades of the fallen prince"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Unholy Death Knights?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Apocalypse"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Havoc Demon Hunters?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Twinblades of the Deceiver"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Vengeance Demon Hunters?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Aldrachi Warblades"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Balance Druids?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Scythe of Elune"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Feral Druids?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Fangs of Ashamane"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Guardian Druids?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Claws of Ursoc"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Restoration Druids?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "G'Hanir, the Mother Tree",
+            "ghanir the mother tree",
+            "ghanir, the mother tree",
+            "g'hanir",
+            "ghanir"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Beast Mastery Hunters?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "titanstrike"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Marksmanship Hunters?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Thas'dorah, Legacy of the Windrunners",
+            "Thasdorah, Legacy of the Windrunners",
+            "thas'dorah",
+            "thasdorah"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Survival Hunters?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "talonclaw"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Arcane Mages?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "aluneth"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Fire Mages?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "felo'melorn",
+            "felomelorn",
+            "heart of the phoenix",
+            "felomelorn and heart of the phoenix",
+            "felo'melorn and heart of the phoenix"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Frost Mages?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "ebonchill"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Brewmaster Monks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Fu Zan, the Wanderer's Companion",
+            "fu zan",
+            "fuzan",
+            "fuzan, the wanderers companion",
+            "fuzan the wanderers companion",
+            "fu zan the wanderers companion"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Mistweaver Monks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "sheilun",
+            "sheilun, staff of the mists",
+            "sheilun staff of the mists"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Windwalker Monks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Fist of the heavens",
+            "alburq",
+            "al'burq",
+            "alraed",
+            "alra'ed"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Holy Paladins?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "the silver hand",
+            "silver hand"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Protection Paladins?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Truthguard",
+            "oathseeker",
+            "truthguard and oathseeker",
+            "truthguard & oathseeker"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Retribution Paladins?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "ashbringer"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Discipline Priests?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "light's wrath",
+            "lights wrath"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Holy Priests?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "T'uure, Beacon of the Naaru",
+            "Tuure, Beacon of the Naaru",
+            "tuure",
+            "t'uure"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Shadow Priests?",
+        "sarcastic-answers": [
+            "waifu",
+	    "knaifu",
+            "knaifu waifu",
+	    "knife wife"
+        ],
+        "sarcastic-response": "...thirsty for some void action?",
+        "answers": [
+            "Xal'atath, Blade of the Black Empire and Secrets of the Void",
+            "xal'atath",
+            "xalatath",
+            "Xalatath, Blade of the Black Empire",
+            "secrets of the void"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Assassination Rogues?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "the kingslayers",
+            "kingslayers",
+            "anguish and sorrow",
+            "anguish",
+            "sorrow"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Outlaw Rogues?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "the dreadblades",
+            "dreadblades",
+            "fate and fortune",
+            "fate",
+            "fortune"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Subtlety Rogues?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "fangs of the devourer",
+            "gorefang and akaari's will",
+            "gorefang",
+            "akaaris will",
+            "akaari's will"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Elemental Shaman?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "The fist of ra-den",
+            "fist of ra-den",
+            "the fist of raden",
+            "fist of raden",
+            "highkeepers ward",
+            "highkeeper's ward"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Enhancement Shamans?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Doomhammer",
+            "fury of the stonemother",
+            "doomhamer and fury of the stonemother"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Restoration Shamans?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Sharas'dal, Scepter of Tides and Shield of the Sea Queen",
+            "Sharas'dal, Scepter of Tides",
+            "Sharas'dal",
+            "Sharasdal",
+            "Shield of the Sea Queen"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Afflication Warlocks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Ulthalesh, the Deadwind Harvester",
+            "Ulthalesh"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Demonology Warlocks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Skull of the Man'ari and Spine of Thal'kiel",
+            "Skull of the Man'ari",
+            "Skull of the Manari",
+            "Spine of Thal'kiel",
+            "Spine of Thalkiel"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Destruction Warlocks?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Scepter of Sargeras"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Arms Warriors?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Strom'kar, the Warbreaker",
+            "Stromkar, the Warbreaker",
+            "Strom'kar",
+            "Stromkar"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Fury Warriors?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Warswords of the Valarjar",
+            "odyn's fury",
+            "helya's wrath",
+            "odyn's fury and helya's wrath"
+        ]
+    },
+    {
+        "question": "During Legion, what was the name of the artifact weapon given to Protection Warriors?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Scale of the Earth-Warder and Scaleshard",
+            "Scale of the Earth-Warder",
+            "Scale of the EarthWarder",
+            "Scale of the Earth Warder",
+            "scaleshard"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Shadowmeld\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "night elf",
+            "nightelf",
+            "night elves",
+            "nightelves"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Blood Fury\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "orc",
+            "orcs"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Stoneform\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "dwarf",
+            "dwarves"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Berserking\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "troll",
+            "trolls"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Fireblood\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "dark iron dwarf",
+            "darkiron",
+            "dark iron",
+            "darkiron dwarf",
+            "dark-iron dwarf",
+            "dark iron dwarves"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Will to Survive\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Human",
+            "humans"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Ancestral Call\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "mag'har orc",
+            "maghar orc",
+            "mag'har orcs",
+            "maghar orcs"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Touch of the Grave\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "undead"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Spatial Rift\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "void elf",
+            "void elves"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"War Stomp\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "tauren"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Darkflight\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "worgen"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Arcane Torrent\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "blood elf",
+            "blood elves"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Escape Artist\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "gnome",
+            "gnomes"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Bull Rush\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "highmountain tauren",
+            "highmountain"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Brush It Off\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "kul'tiran",
+            "kultiran",
+            "kul tiran",
+            "kultirans",
+            "kul'turans",
+            "kul tirans"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Light's Judgment\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "lightforged draenei"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Regeneration\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "troll"
+        ]
+    },
+    {
+        "question": "Which race has a racial ability named \"Regeneratin'\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "zandalari troll"
+        ]
+    },
+    {
+        "question": "Who says \"By Fire Be Purged!\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Ragnaros"
+        ]
+    },
+    {
+        "question": "What is the name of the blessed blade of the windseeker?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "thunderfury",
+            "Thunderfury, Blessed Blade of the Windseeker"
+        ]
+    },
+    {
+        "question": "What is Jaina Proudmoore's father's first name?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Daelin"
+        ]
+    },
+    {
+        "question": "What is Arthas Menethil's sister's first name?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "calia"
+        ]
+    },
+    {
+        "question": "Who is the final boss of Castle Nathria?",
+        "sarcastic-answers": [
+            "daddy",
+            "daddy d",
+            "daddy denathrius",
+            "big daddy d"
+        ],
+        "sarcastic-response": "...a bit thirsty are we?",
+        "answers": [
+            "Sire Denathrius",
+            "denathrius"
+        ]
+    },
+    {
+        "question": "Which boss in The Eternal Palace deals with the following mechanics: Upsurge, Briny Bubble, Exposed Azerite?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "lady ashvane",
+            "ashvane"
+        ]
+    },
+    {
+        "question": "Who is the penultimate boss in Antorus, The Burning Throne?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Aggramar"
+        ]
+    },
+    {
+        "question": "What achivement is earned by players for defeating the final boss of the current tier raid on Mythic difficulty before tier end?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "cutting edge",
+            "ce"
+        ]
+    },
+    {
+        "question": "What achivement is earned by players for defeating the final boss of the current tier raid on Heroic difficulty before tier end?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "ahead of the curve",
+            "aotc"
         ]
     }
 ]
