@@ -2132,7 +2132,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Eonar"
+            "eonar"
         ]
     },
     {
@@ -2194,7 +2194,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Maw of the Damned"
+            "maw of the damned"
         ]
     },
     {
@@ -2205,7 +2205,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Blades of the fallen prince"
+            "blades of the fallen prince"
         ]
     },
     {
@@ -2216,7 +2216,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Apocalypse"
+            "apocalypse"
         ]
     },
     {
@@ -2227,7 +2227,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Twinblades of the Deceiver"
+            "twinblades of the deceiver"
         ]
     },
     {
@@ -2238,7 +2238,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Aldrachi Warblades"
+            "aldrachi warblades"
         ]
     },
     {
@@ -2249,7 +2249,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Scythe of Elune"
+            "scythe of elune"
         ]
     },
     {
@@ -2260,7 +2260,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Fangs of Ashamane"
+            "fangs of ashamane"
         ]
     },
     {
@@ -2271,7 +2271,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Claws of Ursoc"
+            "claws of ursoc"
         ]
     },
     {
@@ -2282,7 +2282,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "G'Hanir, the Mother Tree",
+            "g'hanir, the mother tree",
             "ghanir the mother tree",
             "ghanir, the mother tree",
             "g'hanir",
@@ -2308,8 +2308,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Thas'dorah, Legacy of the Windrunners",
-            "Thasdorah, Legacy of the Windrunners",
+            "thas'dorah, legacy of the windrunners",
+            "thasdorah, legacy of the windrunners",
             "thas'dorah",
             "thasdorah"
         ]
@@ -2370,7 +2370,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Fu Zan, the Wanderer's Companion",
+            "fu zan, the wanderer's companion",
             "fu zan",
             "fuzan",
             "fuzan, the wanderers companion",
@@ -2399,7 +2399,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Fist of the heavens",
+            "fist of the heavens",
             "alburq",
             "al'burq",
             "alraed",
@@ -2426,7 +2426,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Truthguard",
+            "truthguard",
             "oathseeker",
             "truthguard and oathseeker",
             "truthguard & oathseeker"
@@ -2463,8 +2463,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "T'uure, Beacon of the Naaru",
-            "Tuure, Beacon of the Naaru",
+            "t'uure, beacon of the naaru",
+            "tuure, beacon of the naaru",
             "tuure",
             "t'uure"
         ]
@@ -2473,16 +2473,16 @@
         "question": "During Legion, what was the name of the artifact weapon given to Shadow Priests?",
         "sarcastic-answers": [
             "waifu",
-	    "knaifu",
+            "knaifu",
             "knaifu waifu",
-	    "knife wife"
+            "knife wife"
         ],
         "sarcastic-response": "...thirsty for some void action?",
         "answers": [
-            "Xal'atath, Blade of the Black Empire and Secrets of the Void",
+            "xal'atath, blade of the black empire and secrets of the void",
             "xal'atath",
             "xalatath",
-            "Xalatath, Blade of the Black Empire",
+            "xalatath, blade of the black empire",
             "secrets of the void"
         ]
     },
@@ -2539,7 +2539,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "The fist of ra-den",
+            "the fist of ra-den",
             "fist of ra-den",
             "the fist of raden",
             "fist of raden",
@@ -2555,7 +2555,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Doomhammer",
+            "doomhammer",
             "fury of the stonemother",
             "doomhamer and fury of the stonemother"
         ]
@@ -2568,11 +2568,11 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Sharas'dal, Scepter of Tides and Shield of the Sea Queen",
-            "Sharas'dal, Scepter of Tides",
-            "Sharas'dal",
-            "Sharasdal",
-            "Shield of the Sea Queen"
+            "sharas'dal, scepter of tides and shield of the sea queen",
+            "sharas'dal, scepter of tides",
+            "sharas'dal",
+            "sharasdal",
+            "shield of the sea queen"
         ]
     },
     {
@@ -2583,8 +2583,8 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Ulthalesh, the Deadwind Harvester",
-            "Ulthalesh"
+            "ulthalesh, the deadwind harvester",
+            "ulthalesh"
         ]
     },
     {
@@ -2595,11 +2595,11 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Skull of the Man'ari and Spine of Thal'kiel",
-            "Skull of the Man'ari",
-            "Skull of the Manari",
-            "Spine of Thal'kiel",
-            "Spine of Thalkiel"
+            "skull of the man'ari and spine of thal'kiel",
+            "skull of the man'ari",
+            "skull of the manari",
+            "spine of thal'kiel",
+            "spine of thalkiel"
         ]
     },
     {
@@ -2610,7 +2610,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Scepter of Sargeras"
+            "scepter of sargeras"
         ]
     },
     {
@@ -2621,10 +2621,10 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Strom'kar, the Warbreaker",
-            "Stromkar, the Warbreaker",
-            "Strom'kar",
-            "Stromkar"
+            "strom'kar, the warbreaker",
+            "stromkar, the warbreaker",
+            "strom'kar",
+            "stromkar"
         ]
     },
     {
@@ -2635,7 +2635,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Warswords of the Valarjar",
+            "warswords of the valarjar",
             "odyn's fury",
             "helya's wrath",
             "odyn's fury and helya's wrath"
@@ -2649,10 +2649,10 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Scale of the Earth-Warder and Scaleshard",
-            "Scale of the Earth-Warder",
-            "Scale of the EarthWarder",
-            "Scale of the Earth Warder",
+            "scale of the earth-warder and scaleshard",
+            "scale of the earth-warder",
+            "scale of the earthwarder",
+            "scale of the earth warder",
             "scaleshard"
         ]
     },
@@ -2730,7 +2730,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Human",
+            "human",
             "humans"
         ]
     },
@@ -2886,7 +2886,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Ragnaros"
+            "ragnaros"
         ]
     },
     {
@@ -2898,7 +2898,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "thunderfury",
-            "Thunderfury, Blessed Blade of the Windseeker"
+            "thunderfury, blessed blade of the windseeker"
         ]
     },
     {
@@ -2909,7 +2909,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Daelin"
+            "daelin"
         ]
     },
     {
@@ -2933,7 +2933,7 @@
         ],
         "sarcastic-response": "...a bit thirsty are we?",
         "answers": [
-            "Sire Denathrius",
+            "sire denathrius",
             "denathrius"
         ]
     },
@@ -2957,7 +2957,7 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Aggramar"
+            "aggramar"
         ]
     },
     {
