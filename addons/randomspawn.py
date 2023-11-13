@@ -146,7 +146,7 @@ def james_devourer_of_worlds(leaderboard):
 def broseph_stalin(leaderboard):
     top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
     sorted_users = [k for k in top_sorted_leaderboard]
-    points_diff = int(leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]]/2)
+    points_diff = int((leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]])/2)
     leaderboard[sorted_users[0]] -= points_diff
     while points_diff > 0:
         for user in sorted_users[3:]:
@@ -221,7 +221,7 @@ ENCOUNTERS = [
         "name": "Broseph Stall-in",
         "url": "https://i.imgur.com/OT37AKV.jpg",
         "function": broseph_stalin,
-        "description": "...and cuts the capitalist's lead"
+        "description": "...and cuts the capitalist's lead",
         "footer": "History shows that there are no invincible armies"
     },
     {

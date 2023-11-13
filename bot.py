@@ -21,12 +21,17 @@ DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
 CHANNEL_ID = os.environ['CHANNEL_ID']
 
 LEADERBOARD_FILE='leaderboard.json'
+SAFE_LEADERBOARD_FILE='safe_leaderboard.json'
+DUEL_STAT_FILE = 'duel_stats.json'
 LEADERBOARD_LENGTH=10
 DUEL_POINT_MIN = 1
 DUEL_POINT_MAX = 3
 DUEL_WAIT_TIME_MINUTES = 2
 DUEL_FILE = 'images/duels.json'
 DUEL_DATA = json.load(open(DUEL_FILE))
+
+DUEL_ROLE = 'Savage'
+TRIVIA_ROLE = 'Loremaster'
 
 class RallyBot(discord.Client):
     async def on_ready(self):
@@ -35,12 +40,14 @@ class RallyBot(discord.Client):
         print(self.channel)
         self.channel_last_message_time = time.time()
 
-        self.leaderboard = self.load_leaderboard()
+        self.leaderboard = self.load_leaderboard(LEADERBOARD_FILE)
+        self.safe_leaderboard = self.load_safe_leaderboard(SAFE_LEADERBOARD_FILE)
+        self.duel_stats = self.load_leaderboard(DUEL_STAT_FILE)
 
         self.duel_in_progress = False
 
         self.addons = [
-                addon(self.channel, self.leaderboard) for addon in ENABLED_ADDONS
+                addon(self.channel, self.leaderboard, self.safe_leaderboard) for addon in ENABLED_ADDONS
         ]
 
         #Default them to assume they've already sent so that we dont get a thundering herd
@@ -61,9 +68,9 @@ class RallyBot(discord.Client):
         print("Successfully saved leaderboard")
 
 
-    def load_leaderboard(self):
+    def load_leaderboard(self, leaderboard_file):
         try:
-            with open(LEADERBOARD_FILE) as f:
+            with open(leaderboard_file) as f:
                 return json.load(f)
             print("Successfully loaded saved leaderboard")
         except Exception as e:
@@ -105,6 +112,17 @@ class RallyBot(discord.Client):
             description=f"{score} points"
         )
         await channel.send(embed=embed)
+
+    async def set_duelist_role(self):
+        pass
+        # Figure out who has the most duel points
+        sorted_by_duel_points = sorted(self.duel_stats, key=lambda x: (self.duel_stats[x]['points_earned']), reverse=True)
+        winner = sorted_by_duel_points[0]
+
+        # Then Figure out who has the existing DUEL_ROLE
+
+        # If they're different, change the role
+        
 
     async def on_message(self, message):
         self.channel_last_message_time = time.time()
@@ -169,6 +187,11 @@ class RallyBot(discord.Client):
             return array[number]
 
         self.duel_in_progress = True
+
+        if not dueler1 in self.duel_stats:
+            self.duel_stats.update({dueler1: {'wins': 0, 'losses': 0, '69s': 0, 'points_earned': 0, 'points_lost': 0}})
+        if not dueler2 in self.duel_stats:
+            self.duel_stats.update({dueler2: {'wins': 0, 'losses': 0, '69s': 0, 'points_earned': 0, 'points_lost': 0}})
 
         # Figure out how many points we can bet, between min and max
         dueler1_max = min(self.leaderboard[dueler1], duel_point_max)
@@ -258,6 +281,12 @@ class RallyBot(discord.Client):
             else:
                 result_embed.title = f"Duel Result: {dueler2} rolled a 69!"
 
+            # Handle points
+            self.duel_stats[dueler1]['points_earned'] += 9
+            self.duel_stats[dueler2]['points_earned'] += 9
+            self.duel_stats[dueler1]['69s'] += 1
+            self.duel_stats[dueler2]['69s'] += 1
+
             result_embed.description = "69 Party!"
             self.leaderboard[dueler1] += 9
             self.leaderboard[dueler2] += 9
@@ -291,6 +320,9 @@ class RallyBot(discord.Client):
             self.leaderboard[dueler1] += 1
             self.leaderboard[dueler2] += 1
 
+            self.duel_stats[dueler1]['points_earned'] += 1
+            self.duel_stats[dueler2]['points_earned'] += 1
+
             result_embed.add_field(
                 name="Point Distrubtion",
                 value="F$ck it! Both duelers gain a point!"
@@ -312,6 +344,12 @@ class RallyBot(discord.Client):
             result_embed.description = f"{dueler1} has killed {dueler2}"
             self.leaderboard[dueler1] += duel_point_stake
             self.leaderboard[dueler2] -= duel_point_stake
+
+            self.duel_stats[dueler1]['points_earned'] += duel_point_stake
+            self.duel_stats[dueler2]['points_lost'] += duel_point_stake
+            self.duel_stats[dueler1]['wins'] += 1
+            self.duel_stats[dueler2]['losses'] += 1
+
 
             result_embed.add_field(
                 name="Point Distrubtion",
@@ -342,6 +380,12 @@ class RallyBot(discord.Client):
             result_embed.description = f"{dueler2} has killed {dueler1}"
             self.leaderboard[dueler2] += duel_point_stake
             self.leaderboard[dueler1] -= duel_point_stake
+
+
+            self.duel_stats[dueler2]['points_earned'] += duel_point_stake
+            self.duel_stats[dueler1]['points_lost'] += duel_point_stake
+            self.duel_stats[dueler2]['wins'] += 1
+            self.duel_stats[dueler1]['losses'] += 1
 
             result_embed.add_field(
                 name="Point Distrubtion",

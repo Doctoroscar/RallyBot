@@ -49,6 +49,9 @@ class Riddles(Addon):
         if not message.author.name in self.leaderboard:
             self.leaderboard.update({message.author.name: 0})
         self.leaderboard[message.author.name] += RIDDLE_POINTS
+        if not message.author.name in self.safe_leaderboard:
+            self.safe_leaderboard.update({message.author.name: 0})
+        self.safe_leaderboard[message.author.name] += RIDDLE_POINTS
 
         #Clear response state
         self.awaiting_response = False
