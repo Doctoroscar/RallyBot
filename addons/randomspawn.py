@@ -146,7 +146,7 @@ def james_devourer_of_worlds(leaderboard):
 def broseph_stalin(leaderboard):
     top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
     sorted_users = [k for k in top_sorted_leaderboard]
-    points_diff = int(leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]]/2)
+    points_diff = int((leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]])/2)
     leaderboard[sorted_users[0]] -= points_diff
     while points_diff > 0:
         for user in sorted_users[3:]:
@@ -158,7 +158,7 @@ def broseph_stalin(leaderboard):
 def vladmir_lenin(leaderboard):
     top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
     sorted_users = [k for k in top_sorted_leaderboard]
-    points_diff = int(leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]]/4) #Quarter
+    points_diff = int((leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]])/4) #Quarter
     for user in sorted_users[1:]:
         leaderboard[user] += points_diff
     return leaderboard
