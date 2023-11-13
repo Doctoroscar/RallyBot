@@ -2468,7 +2468,7 @@
             "tuure",
             "t'uure",
             "t'uure beacon of the naaru",
-            "tuure beacon of the naaru",
+            "tuure beacon of the naaru"
         ]
     },
     {
@@ -2984,6 +2984,959 @@
         "answers": [
             "ahead of the curve",
             "aotc"
+        ]
+    },
+    {
+        "question": "Who was the said to be the first Titan to have awoken?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Aman'thul",
+            "amanthul",
+            "aman thul"
+        ]
+    },
+    {
+        "question": "Who is the \"Highfather of the Pantheon\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Aman'thul",
+            "amanthul",
+            "aman thul"
+        ]
+    },
+    {
+        "question": "Who was the \"Defender of the Pantheon\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Sargeras"
+        ]
+    },
+    {
+        "question": "Which Titan was Sargeras's Lieutenant?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "aggramar"
+        ]
+    },
+    {
+        "question": "Which Titan is the \"Life Binder\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "eonar"
+        ]
+    },
+    {
+        "question": "Which Titan is the \"Forger of Worlds\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "khaz'goroth",
+            "khazgoroth",
+            "khaz goroth"
+        ]
+    },
+    {
+        "question": "Which Titan is the \"Keeper of Celestial Magics and Lore\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "norgannon"
+        ]
+    },
+    {
+        "question": "Which Titan is the \"Lord of the Skies and Roaring Oceans\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "golganneth"
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The Jade Serpent\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "yu'lon",
+            "yulon"
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The White Tiger\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "xuen"
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The Black Ox?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "niuzao"
+        ]
+    },
+    {
+        "question": "",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Which Wild God is \"The Red Crane\"?"
+        ]
+    },
+    {
+        "question": "chi-ji / chiji / chi ji",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            ""
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The Great Wolf\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "goldrinn"
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The Wise\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "tortolla"
+        ]
+    },
+    {
+        "question": "Name one of the two Collosal Bear Lords",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "ursoc",
+            "ursol"
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The \"Mistress of Birds\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "aviana"
+        ]
+    },
+    {
+        "question": "",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Which Wild God is \"The Razorboar\"?"
+        ]
+    },
+    {
+        "question": "agamaggan",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "Which Wild God is \"The Mother Wisp\"?"
+        ]
+    },
+    {
+        "question": "aessina",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            ""
+        ]
+    },
+    {
+        "question": "Which Wild God is \"The White Stag\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "malorne"
+        ]
+    },
+    {
+        "question": "Who was the largest prot-dragon?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "galakrond"
+        ]
+    },
+    {
+        "question": "Which of Sargeras's generals is known as \"The Defiler\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "archimonde"
+        ]
+    },
+    {
+        "question": "Which of Sargeras's generals is known as \"The Deceiver\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "kil'jaeden",
+            "kiljaeden",
+            "kil jaeden"
+        ]
+    },
+    {
+        "question": "Which of the Eredar leader's rejected Sargeras's Grand Vision?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "velen",
+            "prophet velen",
+            "the prophet velen"
+        ]
+    },
+    {
+        "question": "What was Keeper Thorim's wife's name?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "sif"
+        ]
+    },
+    {
+        "question": "Who is Thorim's brother?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "loken"
+        ]
+    },
+    {
+        "question": "Who is Loken's brother?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "thorim"
+        ]
+    },
+    {
+        "question": "Who is Loken and Thorim's father?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "odyn"
+        ]
+    },
+    {
+        "question": "Who is the final boss of the Raid instance \"Zul'Aman\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "zul'jin",
+            "zuljin",
+            "zul jin"
+        ]
+    },
+    {
+        "question": "What is the name of the monkey-like race native to Pandaria?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "hozen"
+        ]
+    },
+    {
+        "question": "Who imprisoned Xuen?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "lei shen",
+            "leishen"
+        ]
+    },
+    {
+        "question": "Grommash Hellscream drank the blood of which Pit Lord?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "mannoroth"
+        ]
+    },
+    {
+        "question": "Which Orc leader wore the Tusks of Mannoroth as shoulder armor?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "garrosh",
+            "garrosh hellscream"
+        ]
+    },
+    {
+        "question": "Dire Maul is what remains of what previously flourishing Highborne city?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "eldre'thalas",
+            "eldrethalas",
+            "eldre thalas"
+        ]
+    },
+    {
+        "question": "Bolvar Fordragon and Dranosh Saurfang temporarily teamed up to fight the Lich King's forces at the Battle of the?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "wrath gate",
+            "battle of the wrath gate",
+            "the battle of the wrath gate",
+            "wrathgate"
+        ]
+    },
+    {
+        "question": "Who is the son of Alexandros Mograine?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "renault",
+            "darion",
+            "darion mograine",
+            "renault mograine"
+        ]
+    },
+    {
+        "question": "Which former High Inquisitor of the Scarlet Crusade was resurrected to become one of the new Four Horsemen?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "sally whitemane",
+            "whitemane"
+        ]
+    },
+    {
+        "question": "Which Burning Crusade boss drops the Warglaives of Azzinoth?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "illidan",
+            "illidan stormrage",
+            "illidan the betrayer"
+        ]
+    },
+    {
+        "question": "Which vanilla Paladin ability killed the user in order to protect an ally with an impenetrable shield?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "divine intervention"
+        ]
+    },
+    {
+        "question": "Which removed Priest ability would drastically increase resource regeneration, but eventually kill the user?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "surrender to madness",
+            "stm"
+        ]
+    },
+    {
+        "question": "What was the original name for the Vengeance Demon Hunter's primary resource?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "pain"
+        ]
+    },
+    {
+        "question": "What is the name of the Death Knight battle rez ability?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "raise ally"
+        ]
+    },
+    {
+        "question": "What is the name of the enhanced Unholy Death Knight's Death and Decay Spell (talented)",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "defile"
+        ]
+    },
+    {
+        "question": "What Death Knight ability causes them to become undead for a period of time?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "lichborne"
+        ]
+    },
+    {
+        "question": "What is the name of the Druid battle rez ability?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "rebirth"
+        ]
+    },
+    {
+        "question": "What is the name of the Balance druid AoE silence spell?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "solar beam",
+            "solarbeam"
+        ]
+    },
+    {
+        "question": "What is the name of the Druid's out-of-combat single-target resurrection spell?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "revive"
+        ]
+    },
+    {
+        "question": "During which expansion was the Demon Hunter introduced as a playable class?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "legion"
+        ]
+    },
+    {
+        "question": "What is the name of Arthas's horse?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "invincible"
+        ]
+    },
+    {
+        "question": "What engineering toy will fight other toys of the same type (model number not required)?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "blingtron"
+        ]
+    },
+    {
+        "question": "What title is given to PvP end of season rank 1 Arena players?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "gladiator"
+        ]
+    },
+    {
+        "question": "What title is given to PvP end of season rank 2 Arena players?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "duelist"
+        ]
+    },
+    {
+        "question": "What artifact was used by all characters throughout The Battle for Azeroth?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "heart of azeroth",
+            "hoa"
+        ]
+    },
+    {
+        "question": "What toy allows the user to \"look like a member of the opposing faction for 5 min\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "orb of deception"
+        ]
+    },
+    {
+        "question": "Who is the Wolf Boss in the Halls of Valor?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "fenryr"
+        ]
+    },
+    {
+        "question": "Who is the last boss in the Maw of Souls dungeon?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "helya"
+        ]
+    },
+    {
+        "question": "What is the last boss in Darkheart Thicket?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "shade of xavius",
+            "xavius"
+        ]
+    },
+    {
+        "question": "What is the final boss in the Seat of the Triumvirate?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "l'ura",
+            "lura",
+            "l ura"
+        ]
+    },
+    {
+        "question": "Who is the final boss in the Siege of Boralus?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "viq'goth",
+            "viqgoth",
+            "viq goth"
+        ]
+    },
+    {
+        "question": "Who is the last boss in Freehold?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "harlan sweete"
+        ]
+    },
+    {
+        "question": "Which boss in King's Rest casts \"entomb\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "mchimba the embalmer",
+            "mchimba"
+        ]
+    },
+    {
+        "question": "Who is the final boss in De Other Side?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "mueh'zala",
+            "muehzala",
+            "mueh zala"
+        ]
+    },
+    {
+        "question": "Which boss in Plaguefall casts \"infectious rain\"",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "margrave stradama"
+        ]
+    },
+    {
+        "question": "Which boss in the Theater of Pain makes players duel each other?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "xav",
+            "xav the fallen"
+        ]
+    },
+    {
+        "question": "What was the name of the BfA mythic plus Season 1 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "infested"
+        ]
+    },
+    {
+        "question": "What was the name of the BfA mythic plus Season 2 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "reaping"
+        ]
+    },
+    {
+        "question": "What was the name of the BfA mythic plus Season 3 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "beguiling"
+        ]
+    },
+    {
+        "question": "What was the name of the BfA mythic plus Season 4 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "awakened"
+        ]
+    },
+    {
+        "question": "What was the name of the Shadowlands mythic plus Season 1 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "prideful"
+        ]
+    },
+    {
+        "question": "What was the name of the Shadowlands mythic plus Season 2 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "tormented"
+        ]
+    },
+    {
+        "question": "What was the name of the Shadowlands mythic plus Season 3 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "encrypted"
+        ]
+    },
+    {
+        "question": "What was the name of the Shadowlands mythic plus Season 4 seasonal affix?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "shrouded"
+        ]
+    },
+    {
+        "question": "What BfA Corruption ability gave attacks a chance to deal damage equal to a portion of your health to enemies in front of you?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "twilight devastation"
+        ]
+    },
+    {
+        "question": "What BfA Corruption ability gave attacks a chance to cause the target to ooze blood?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "gushing wound"
+        ]
+    },
+    {
+        "question": "Which of the Shadowlands factions befriend owls?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "kyrian"
+        ]
+    },
+    {
+        "question": "What was the name of the first raid instance of Shadowlands?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "castle nathria"
+        ]
+    },
+    {
+        "question": "Which boss in The Sanctum of Domination summoned spiked balls to cross the platform?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "painsmith raznal"
+        ]
+    },
+    {
+        "question": "Who is the first boss of the Dragonflight raid on Amirdrassil?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "gnarlroot"
+        ]
+    },
+    {
+        "question": "What Priest ability is commonly known as \"PI\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "power infusion"
+        ]
+    },
+    {
+        "question": "What Death Knight ability is commonly known as \"Slappy Hands\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "abomination limb"
+        ]
+    },
+    {
+        "question": "What Paladin ability is commonly known as \"WoG\"?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "word of glory"
+        ]
+    },
+    {
+        "question": "What Shaman ability buffs the group or raid with a large haste buff that also causes a 10 minute debuff?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
+            "bloodlust",
+            "heroism"
         ]
     }
 ]

@@ -155,7 +155,21 @@ def broseph_stalin(leaderboard):
     new_top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
     return leaderboard
 
+def vladmir_lenin(leaderboard):
+    top_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
+    sorted_users = [k for k in top_sorted_leaderboard]
+    points_diff = int(leaderboard[sorted_users[0]] - leaderboard[sorted_users[1]]/4) #Quarter
+    for user in sorted_users[1:]:
+        leaderboard[user] += points_diff
+    return leaderboard
 
+def justin_trubro(leaderboard):
+    bottom_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=False)}
+    sorted_users = [k for k in top_sorted_leaderboard]
+    rand_number = random.randint(1, 3)
+    user = sorted_users[rand_number]
+    leaderboard[user] += 35
+    return leaderboard
 
 
 
@@ -221,8 +235,22 @@ ENCOUNTERS = [
         "name": "Broseph Stall-in",
         "url": "https://i.imgur.com/OT37AKV.jpg",
         "function": broseph_stalin,
-        "description": "...and cuts the capitalist's lead"
+        "description": "...and cuts the capitalist's lead",
         "footer": "History shows that there are no invincible armies"
+    },
+    {
+        "name": "Vladmir \"Ima-John\" Lenin",
+        "url": "https://i.imgur.com/7vq6mAd.jpg",
+        "function": vladmir_lenin,
+        "description": "...and hands out dueling points! Rise up!",
+        "footer": "Imagine all the people...given an AK"
+    },
+    {
+        "name": "Justin TruBro",
+        "url": "https://i.imgur.com/8takMve.jpg",
+        "function": justin_trubro,
+        "description": "...and uplifts a random loser",
+        "footer": "Universal healthcare, one person at a time"
     },
     {
         "name": "George W Butcher",
