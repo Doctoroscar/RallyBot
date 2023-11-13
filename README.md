@@ -10,5 +10,4 @@ Discord bot for Rally
 - Add safe leaderboard to preserve Trivia
 - Add automatic role management for Duelers & Trivia winners
 - Add teams?
-- Add summons?
-
+- Add summons? (Holi-Deities)?
