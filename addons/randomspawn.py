@@ -165,7 +165,7 @@ def vladmir_lenin(leaderboard):
 
 def justin_trubro(leaderboard):
     bottom_sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=False)}
-    sorted_users = [k for k in top_sorted_leaderboard]
+    sorted_users = [k for k in bottom_sorted_leaderboard]
     rand_number = random.randint(1, 3)
     user = sorted_users[rand_number]
     leaderboard[user] += 35
