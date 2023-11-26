@@ -3183,36 +3183,25 @@
         ]
     },
     {
-        "question": "",
+        "question": "Which Wild God is \"The Razorboar\"?",
         "sarcastic-answers": [
             "penis",
             "vagina"
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Which Wild God is \"The Razorboar\"?"
+	    "agamaggan"
         ]
     },
     {
-        "question": "agamaggan",
+        "question":  "Which Wild God is \"The Mother Wisp\"?",
         "sarcastic-answers": [
             "penis",
             "vagina"
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Which Wild God is \"The Mother Wisp\"?"
-        ]
-    },
-    {
-        "question": "aessina",
-        "sarcastic-answers": [
-            "penis",
-            "vagina"
-        ],
-        "sarcastic-response": "...get your mind out of the gutter!",
-        "answers": [
-            ""
+	    "aessina"
         ]
     },
     {

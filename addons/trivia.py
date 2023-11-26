@@ -9,7 +9,7 @@ MONITOR_STATE = False
 QUESTION_BANK = json.load(open('questions/trivia.json'))
 IMAGE_BANK = json.load(open('images/geralt_trivia_images.json'))
 
-TRIVIA_POINTS = 20
+TRIVIA_POINTS = 20000
 
 class Trivia(Addon):
     def __init__(self, *args, **kwargs):

@@ -9,7 +9,7 @@ MONITOR_STATE = False
 QUESTION_BANK = json.load(open('questions/wow_trivia.json'))
 IMAGE_BANK = json.load(open('images/turkey_trivia_images.json'))
 
-TRIVIA_POINTS = 15
+TRIVIA_POINTS = 15000
 
 class TurkeyTrivia(Addon):
     def __init__(self, *args, **kwargs):
