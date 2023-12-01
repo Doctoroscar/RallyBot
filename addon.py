@@ -10,7 +10,7 @@ DEFAULT_DESCRIPTION = '...but vanished into thin air!'
 NEGATIVE_STRING = "129r0fhjnedi89v-<F7>201cak"
 
 class Addon(object):
-    def __init__(self, channel, leaderboard, *args, **kwargs):
+    def __init__(self, channel, leaderboard, trivia_leaderboard, *args, **kwargs):
         self.spawn_interval = kwargs.get('spawn_interval', DEFAULT_SPAWN_INTERVAL_SECONDS)
         self.timeout_interval = kwargs.get('timeout_interval', DEFAULT_TIMEOUT_INTERVAL_SECONDS)
         self.activity_monitor_state = kwargs.get('activity_monitor_state', DEFAULT_ACTIVITY_MONITOR_STATE)
@@ -18,6 +18,7 @@ class Addon(object):
         self.channel = channel
 
         self.leaderboard = leaderboard
+        self.trivia_leaderboard = trivia_leaderboard
 
         self.awaiting_response = False
         self.user_message = None  #Message from a user in discord that triggers a response

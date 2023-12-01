@@ -9,7 +9,7 @@ MONITOR_STATE = False
 QUESTION_BANK = json.load(open('questions/trivia.json'))
 IMAGE_BANK = json.load(open('images/geralt_trivia_images.json'))
 
-TRIVIA_POINTS = 20000
+TRIVIA_POINTS = 1200
 
 class Trivia(Addon):
     def __init__(self, *args, **kwargs):
@@ -50,6 +50,12 @@ class Trivia(Addon):
         if not message.author.name in self.leaderboard:
             self.leaderboard.update({message.author.name: 0})
         self.leaderboard[message.author.name] += TRIVIA_POINTS
+
+        #Update Trivia counter
+        if not message.author.name in self.trivia_leaderboard:
+            self.trivia_leaderboard.update({message.author.name: 0})
+        self.trivia_leaderboard[message.author.name] += 1
+
 
         #Clear response state
         self.awaiting_response = False

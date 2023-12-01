@@ -9,11 +9,12 @@ import asyncio
 from addons.riddles import Riddles 
 from addons.trivia import Trivia
 from addons.turkey_trivia import TurkeyTrivia
+from addons.mariah_carrion import MariahCarrion
 from addons.randomspawn import RandomSpawn
 
 BACKGROUND_TIMER_SECONDS = 30
 ENABLED_ADDONS = [
-        TurkeyTrivia,
+        MariahCarrion,
         Trivia,
         RandomSpawn
         ]
@@ -21,6 +22,7 @@ DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
 CHANNEL_ID = os.environ['CHANNEL_ID']
 
 LEADERBOARD_FILE='leaderboard.json'
+TRIVIA_LEADERBOARD_FILE = 'trivia_leaderboard.json'
 LEADERBOARD_LENGTH=10
 DUEL_POINT_MIN = 1
 DUEL_POINT_MAX = 3
@@ -35,12 +37,13 @@ class RallyBot(discord.Client):
         print(self.channel)
         self.channel_last_message_time = time.time()
 
-        self.leaderboard = self.load_leaderboard()
+        self.leaderboard = self.load_leaderboard(LEADERBOARD_FILE)
+        self.trivia_leaderboard = self.load_leaderboard(TRIVIA_LEADERBOARD_FILE)
 
         self.duel_in_progress = False
 
         self.addons = [
-                addon(self.channel, self.leaderboard) for addon in ENABLED_ADDONS
+                addon(self.channel, self.leaderboard, self.trivia_leaderboard) for addon in ENABLED_ADDONS
         ]
 
         #Default them to assume they've already sent so that we dont get a thundering herd
@@ -58,12 +61,14 @@ class RallyBot(discord.Client):
     def save_leaderboard(self):
         with open(LEADERBOARD_FILE, 'w') as f:
             f.write(json.dumps(self.leaderboard))
-        print("Successfully saved leaderboard")
+        with open(TRIVIA_LEADERBOARD_FILE, 'w') as f:
+            f.write(json.dumps(self.trivia_leaderboard))
+        print("Successfully saved leaderboards")
 
 
-    def load_leaderboard(self):
+    def load_leaderboard(self, leaderboard_file):
         try:
-            with open(LEADERBOARD_FILE) as f:
+            with open(leaderboard_file) as f:
                 return json.load(f)
             print("Successfully loaded saved leaderboard")
         except Exception as e:
@@ -71,20 +76,20 @@ class RallyBot(discord.Client):
             return {}
 
 
-    async def print_leaderboard(self, channel):
+    async def print_leaderboard(self, channel, leaderboard, score_type="Score"):
         embed = discord.Embed(
             title="Leaderboard: Top 10",
             color=discord.Color.yellow(),
         )
         names = []
         scores = []
-        sorted_leaderboard = {k: v for k, v in sorted(self.leaderboard.items(), key=lambda item: item[1], reverse=True)}
+        sorted_leaderboard = {k: v for k, v in sorted(leaderboard.items(), key=lambda item: item[1], reverse=True)}
         count = 0
         for user in sorted_leaderboard:
             if count > LEADERBOARD_LENGTH:
                 break
             names.append(user)
-            scores.append(str(self.leaderboard[user]))
+            scores.append(str(leaderboard[user]))
             count += 1
 
         embed.add_field(
@@ -92,7 +97,7 @@ class RallyBot(discord.Client):
             value='\n'.join(names)
         )
         embed.add_field(
-            name="Score",
+            name=score_type,
             value='\n'.join(scores)
         )
         await channel.send(embed=embed)
@@ -112,7 +117,8 @@ class RallyBot(discord.Client):
             pass #ignore messages from other channels
 
         elif message.content.lower() == 'leaderboard':
-            await self.print_leaderboard(message.channel)
+            await self.print_leaderboard(message.channel, self.leaderboard)
+            await self.print_leaderboard(message.channel, self.trivia_leaderboard, score_type="Questions Answered")
 
         elif message.content.lower() == 'score':
             await self.print_score(message.channel, message.author.name)

@@ -51,6 +51,11 @@ class TurkeyTrivia(Addon):
             self.leaderboard.update({message.author.name: 0})
         self.leaderboard[message.author.name] += TRIVIA_POINTS
 
+        if not message.author.name in self.trivia_leaderboard:
+            self.trivia_leaderboard.update({message.author.name: 0})
+        self.trivia_leaderboard[message.author.name] += 1
+
+
         #Clear response state
         self.awaiting_response = False
 
