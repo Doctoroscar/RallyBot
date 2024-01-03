@@ -311,6 +311,18 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
+            "hellscream's fist",
+            "hellscreams fist"
+        ]
+    },
+    {
+        "question": "What is the name of the Alliance\u2019s airship that crashes in the Lost Isles?",
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "...get your mind out of the gutter!",
+        "answers": [
             "skyfire",
             "the skyfire"
         ]
