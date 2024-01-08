@@ -3129,25 +3129,16 @@
         ]
     },
     {
-        "question": "",
+        "question": "Which Wild God is \"The Red Crane\"?",
         "sarcastic-answers": [
             "penis",
             "vagina"
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "Which Wild God is \"The Red Crane\"?"
-        ]
-    },
-    {
-        "question": "chi-ji / chiji / chi ji",
-        "sarcastic-answers": [
-            "penis",
-            "vagina"
-        ],
-        "sarcastic-response": "...get your mind out of the gutter!",
-        "answers": [
-            ""
+            "chi-ji",
+            "chiji",
+	    "chi ji"
         ]
     },
     {
