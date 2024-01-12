@@ -10,13 +10,14 @@ from addons.riddles import Riddles
 from addons.trivia import Trivia
 from addons.turkey_trivia import TurkeyTrivia
 from addons.mariah_carrion import MariahCarrion
+from addons.mariah_carry import MariahCarry
 from addons.randomspawn import RandomSpawn
+from addons.yulon import YuLon
 
 BACKGROUND_TIMER_SECONDS = 30
 ENABLED_ADDONS = [
-        MariahCarrion,
+        YuLon,
         Trivia,
-        RandomSpawn
         ]
 DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
 CHANNEL_ID = os.environ['CHANNEL_ID']

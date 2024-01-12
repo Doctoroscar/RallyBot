@@ -171,7 +171,10 @@ def justin_trubro(leaderboard):
     leaderboard[user] += 35
     return leaderboard
 
-
+def deck_the_thralls(leaderboard):
+    for user in leaderboard:
+        leaderboard[user] += 50
+    return leaderboard
 
 
 ENCOUNTERS = [
@@ -251,6 +254,13 @@ ENCOUNTERS = [
         "function": justin_trubro,
         "description": "...and uplifts a random loser",
         "footer": "Universal healthcare, one person at a time"
+    },
+    {
+        "name": "Deck the Thralls",
+        "url": "https://i.imgur.com/RCzSSDL.jpg",
+        "function": deck_the_thralls,
+        "description": "...50 points for all!",
+        "footer": "He wishes you a very Merry Mak'Gora!"
     },
     {
         "name": "George W Butcher",
