@@ -1679,7 +1679,10 @@
     {
         "question": "what is the main ingredient of a mince pie?",
         "answers": [
-            "fruit"
+            "fruit",
+		"fruits",
+		"dried fruit",
+		"dried fruits"
         ]
     },
     {
