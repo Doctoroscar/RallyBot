@@ -1275,7 +1275,8 @@
     {
         "question": "which animal is known to spend 90% of its day, sleeping?",
         "answers": [
-            "koalas"
+            "koalas",
+		"koala"
         ]
     },
     {
