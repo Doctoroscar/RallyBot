@@ -1,5 +1,16 @@
 [
     {
+        "question": "What is the name for Egypt in Egyptian Arabic?",
+        "answers": [
+            "masr",
+		"mesr",
+		"misr",
+		"مصر",
+		"masri",
+		"mesri",
+		"misri"
+        ]
+    {
         "question": "What southeast asian country has never been colonized by european powers?",
         "answers": [
             "thailand"
