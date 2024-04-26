@@ -659,14 +659,20 @@
         ]
     },
     {
-        "question": "What is the name of the Night Elf capital city?",
+        "question": "Name a Night Elf capital city.",
         "sarcastic-answers": [
             "penis",
             "vagina"
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "darnassus"
+            "darnassus",
+		"bel'ameth",
+		"bel ameth",
+		"belameth",
+		"zin azshari",
+		"zin-azshari",
+		"zin'azshari"
         ]
     },
     {
