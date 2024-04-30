@@ -3166,11 +3166,12 @@
         ],
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
-            "tortolla"
+            "tortolla",
+		"Ursol"
         ]
     },
     {
-        "question": "Name one of the two Collosal Bear Lords",
+        "question": "Name one of the two Colossal Bear Lords",
         "sarcastic-answers": [
             "penis",
             "vagina"
