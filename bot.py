@@ -13,10 +13,12 @@ from addons.mariah_carrion import MariahCarrion
 from addons.mariah_carry import MariahCarry
 from addons.randomspawn import RandomSpawn
 from addons.yulon import YuLon
+from addons.anduin import Anduin
+from addons.xalax import Xalax
 
 BACKGROUND_TIMER_SECONDS = 30
 ENABLED_ADDONS = [
-        YuLon,
+        Xalax,
         Trivia,
         ]
 DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
