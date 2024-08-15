@@ -62,7 +62,7 @@ class Xalax(Addon):
 
     async def handle_vanish(self):
         await super().handle_vanish(
-                description="...*she Nya'loathes your lack of WoW Lore*...",
+                description="...*she Nya'loathes your lack of WoW lore knowledge*...",
                 vanish_image_bank=self.image_bank['sad_xalax'],
                 footer={'text': '...she grows another tentacle in frustration...'}
             )
