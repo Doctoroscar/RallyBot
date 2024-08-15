@@ -40,7 +40,7 @@ class Xalax(Addon):
 
     async def handle_success(self, message):
         self.message_embed.description = f"...and awards {message.author.mention} {TRIVIA_POINTS} void credits!"
-        self.message_embed.set_footer(text="She is stated.  She offers you a Tickle-Me-Elmo with Ten Tickles")
+        self.message_embed.set_footer(text="She is pleased.  She offers you a Tickle-Me-Elmo with Ten Tickles")
         image = self.get_random_from_array(self.image_bank['happy_xalax'])
         self.message_embed.set_image(url=image)
         await super().handle_success(message)
