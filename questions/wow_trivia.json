@@ -197,7 +197,7 @@
         "sarcastic-response": "...get your mind out of the gutter!",
         "answers": [
             "desolate council",
-            "the desolate council",
+            "the desolate council"
         ]
     },
     {
@@ -3938,5 +3938,442 @@
             "bloodlust",
             "heroism"
         ]
+    },
+    {
+        "question": "What Hero spec is available to holy and protection paladins?",
+        "answers": [
+            "lightsmith"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to holy and retribution paladins?",
+        "answers": [
+            "herald of the sun",
+            "heraldofthesun"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to protection and retribution paladins?",
+        "answers": [
+            "templar"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to discipline and holy priests?",
+        "answers": [
+            "oracle"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to holy and shadow priests?",
+        "answers": [
+            "archon"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to shadow and discipline priests?",
+        "answers": [
+            "voidweaver"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to assassination and outlaw rogues?",
+        "answers": [
+            "fatebound"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to outlaw and subtlety rogues?",
+        "answers": [
+            "trickster"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to subtlety and assassination rogues?",
+        "answers": [
+            "deathstalker"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to elemental and restoration shamans?",
+        "answers": [
+            "farseer"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to restoration and enhancement shamans?",
+        "answers": [
+            "totemic"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to enhancement and elemental shamans?",
+        "answers": [
+            "stormbringer"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to destruction and affliction warlocks?",
+        "answers": [
+            "hellcaller"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to affliction and demonology warlocks?",
+        "answers": [
+            "soul harvester",
+            "soulharvester"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to demonology and destruction warlocks?",
+        "answers": [
+            "diabolist"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to arms and protection warriors?",
+        "answers": [
+            "colossus"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to protection and fury warriors?",
+        "answers": [
+            "mountain thane",
+            "mountainthane"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to fury and arms warriors?",
+        "answers": [
+            "slayer"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to unholy and blood death knights?",
+        "answers": [
+            "san'layn",
+            "sanlayn",
+            "san layn"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to blood and frost death knights?",
+        "answers": [
+            "deathbringer"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to frost and unholy death knights?",
+        "answers": [
+            "rider of the apocalypse",
+            "rideroftheapocalypse"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to havoc and vengeance demon hunters?",
+        "answers": [
+            "aldrachi reaver",
+            "fel-scarred",
+            "felscarred",
+            "fel scarred"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to balance and guardian druids?",
+        "answers": [
+            "elune's chosen",
+            "eluneschosen",
+            "elunes chosen"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to balance and restoration druids?",
+        "answers": [
+            "keeper of the grove",
+            "keeperofthegrove"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to feral and restoration druids?",
+        "answers": [
+            "wildstalker"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to guardian and feral druids?",
+        "answers": [
+            "druid of the claw",
+            "druidoftheclaw"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to preservation and augmentation evokers?",
+        "answers": [
+            "chronowarden"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to augmentation and devastation evokers?",
+        "answers": [
+            "scalecommander"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to devastation and preservation evokers?",
+        "answers": [
+            "flameshaper"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to marksmanship and beast mastery hunters?",
+        "answers": [
+            "dark ranger",
+            "darkranger"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to beast mastery and survival hunters?",
+        "answers": [
+            "pack leader",
+            "packleader"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to survival and marksmanship hunters?",
+        "answers": [
+            "sentinel"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to frost and fire mages?",
+        "answers": [
+            "frostfire"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to fire and arcane mages?",
+        "answers": [
+            "sunfury"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to arcane and frost mages?",
+        "answers": [
+            "spellslinger"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to mistweaver and brewmaster monks?",
+        "answers": [
+            "master of harmony",
+            "masterofharmony"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to brewmaster and windwalker monks?",
+        "answers": [
+            "shadow-pan",
+            "shadowpan",
+            "shadow pan"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
+    },
+    {
+        "question": "What Hero spec is available to windwalker and mistweaver monks?",
+        "answers": [
+            "conduit of the celestials",
+            "conduitofthecelestials"
+        ],
+        "sarcastic-answers": [
+            "penis",
+            "vagina"
+        ],
+        "sarcastic-response": "Xal'atath finds you thirsting..."
     }
 ]
